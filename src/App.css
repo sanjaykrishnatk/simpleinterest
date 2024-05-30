@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+  background-color: black;
+}
+.content {
+  background-color: white;
+}
+.amt-text {
+  width: 26rem;
+  background-color: #ffc108;
+}
+.amt-area {
+  height: 120px;
+}
+
+.btn-grp {
+  width: 50%;
+  height: 45px;
+}
